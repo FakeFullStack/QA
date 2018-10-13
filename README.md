@@ -7,3 +7,6 @@
 
 ## electron
 * [在electron中使用node-serialport的正确姿势](https://github.com/FakeFullStack/QA/issues/2)
+
+## 前端
+* [一些不起眼的bug](https://github.com/FakeFullStack/QA/issues/3)
