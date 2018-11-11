@@ -10,3 +10,4 @@
 
 ## 前端
 * [一些不起眼的bug](https://github.com/FakeFullStack/QA/issues/3)
+* [使用webpack build时神奇的大小写问题](https://github.com/FakeFullStack/QA/issues/4)
